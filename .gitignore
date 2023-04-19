@@ -1,0 +1,5 @@
+pycrypto
+*/__pycache__
+evaluation/trials
+.bash_history
+.DS_Store
